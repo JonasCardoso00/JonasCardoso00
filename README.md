@@ -4,8 +4,8 @@ Sou estudante na faculdade SPTech!
 - 📫 Contate-me: jonas.fontesneto@sptech.school
 <div >
 <a href="https://github.com/JonasCardoso00">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonascardoso00&layout=compact&langs_count=7&theme=dracula"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=jonascardoso00&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonascardoso00&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=jonascardoso00&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img width="50%" src="https://camo.githubusercontent.com/20ce9da01bd85f5e78e7592937e9e8ac35c904275b1c9d44c44de77f904c6c2b/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f32312f31312f36312f32313131363135386461616562313435396234656330373538353035653161642e676966"/>
 </div>
 <div style="display: inline_block"><br>
